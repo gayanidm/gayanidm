@@ -1,6 +1,9 @@
 Hi There![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-My name is Gayani Dinayadura
+I'm Gayani Dinayadura, a passionate data analyst transitioning from a background in IT Developer/IT support L3. With a strong foundation in SQL,Tableau, PowerBI, Kafka and Python, I am also enhancing my knowledge on Business Interligence.
+
+Below are amy Data related project that has been done.
+
 
 <div align="right" >
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
@@ -52,10 +55,4 @@ My name is Gayani Dinayadura
 <a href="https://www.credly.com/badges/7bf063f4-e238-4767-a4f1-635b380a31d2/public_url"><img src="https://images.credly.com/size/680x680/images/9da3eedf-fda3-4e81-bb46-d174b4699bf1/image.png" width="110" height="110"   /></a>
 <a href="https://www.credly.com/badges/a143948a-37f1-42bf-8bc2-4aa0aa4401be/public_url"><img src="https://images.credly.com/size/680x680/images/8a8e33de-e50b-4a5f-80de-faf8ab3ac1c5/image.png" width="110" height="110"   /></a>
 <a href="https://www.credly.com/badges/b1f49fea-a3f8-41a1-a364-7a96f7b840c6/public_url"><img src="https://images.credly.com/size/680x680/images/f02ecb21-5237-4974-b259-0a8f74675c59/Data_Analyst_Capstone.png" width="110" height="110"   /></a>
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/gayanidm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gayanidm&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 
