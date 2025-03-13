@@ -13,7 +13,9 @@ Below are amy Data related project that has been done.
 ============================================================================================
 
 ### DA Projects
+<li>
 <img src="https://www.muralunique.com/wp-content/uploads/2009/06/products-1619_Canadian-Flag.jpg" width="30" height="15"/><a href="https://github.com/gayanidm/Canadian-Immigrants-Analysis">Canadian-Immigrants-Analysis</a>
+</li>
 
 
 
