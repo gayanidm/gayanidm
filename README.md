@@ -10,7 +10,7 @@ Below are amy Data related project that has been done.
   <a href="http://www.github.com/gayanidm"><img src="https://github-readme-stats.vercel.app/api?username=gayanidm&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&show_icons=true" alt="gayanidm's GitHub stats" /></a>
 </div>
 
-============================================================================================
+=======================================================================================
 
 ### DA Projects
 <li>
@@ -24,7 +24,7 @@ Below are amy Data related project that has been done.
 
 
 
-============================================================================================
+=======================================================================================
 
 
 
